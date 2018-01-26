@@ -1,0 +1,10 @@
+.top li {
+    list-style-type: none;
+    display: inline;
+}
+
+.inline {
+    display: block;
+    border: 1px solid;
+    margin: 25px;
+}
